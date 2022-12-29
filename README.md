@@ -3,7 +3,10 @@
 ## Overview
 
 ```
-This app was developed with Web Dev Simplified video to practice Express Js.  See video here: https://www.youtube.com/watch?v=SccSCuHhOw0 
+This app was developed with Web Dev Simplified
+to practice Express Js.
+  
+See video here: https://www.youtube.com/watch?v=SccSCuHhOw0 
 ```
 
 ## Topics
